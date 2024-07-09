@@ -1,0 +1,2 @@
+# CvFreddie
+curriculum Freddie Mercury
