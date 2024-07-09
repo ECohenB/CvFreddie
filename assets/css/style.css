@@ -1,5 +1,4 @@
-*{
-    font-family: Roboto, 'Courier New', Courier, monospace;
+*{font-family: Roboto, 'Courier New', Courier, monospace;
     
 header{
     padding: 30px;
@@ -17,5 +16,6 @@ h3{
 
 footer{
     margin: 20px;
-    color: chocolate;
+    color: chocolate
+    }
 }
