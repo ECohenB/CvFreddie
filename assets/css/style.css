@@ -1,0 +1,21 @@
+*{
+    font-family: Roboto, 'Courier New', Courier, monospace;
+    
+header{
+    padding: 30px;
+    text-align: center;
+    background-color:beige;
+
+}
+h3{
+    margin-top: 20px;
+    padding: 15px;
+}
+.disco{
+    background-color: burlywood;
+    padding: 50px;}
+
+footer{
+    margin: 20px;
+    color: chocolate;
+}
